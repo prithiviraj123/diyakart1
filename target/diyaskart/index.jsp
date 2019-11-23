@@ -32,10 +32,10 @@
 
 		<div id="tabs">
 			<ul>
-			<li><a href="#tabs-1">fashions</a></li>
-				<li><a href="#tabs-2">electronics</a></li>
-				<li><a href="#tabs-3">groceries</a></li>
-				<li><a href="#tabs-4">mobiles</a></li>
+			<li><a href="#tabs-1">Jenkins</a></li>
+				<li><a href="#tabs-2">Docker</a></li>
+				<li><a href="#tabs-3">Ansible</a></li>
+				<li><a href="#tabs-4">Kubernetes</a></li>
 			</ul>
 			<div id="tabs-1">
 				<p>Jenkins is a powerful application that allows continuous
